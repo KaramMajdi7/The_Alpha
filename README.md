@@ -6,7 +6,7 @@ took a lot of mathematical equations more than the logic or the python code, bec
 y-axis and it has a spaceshp moving along, and so many equations had to be calculated to finish and to result with
 this beautiful game.
 
-And here is a couple of pictures for the game:(PS*the game has sound at the start, during and at the game over parts):
+And here is a couple of pictures for the game:(P.S*the game has sound at the start, during and at the game over parts):
 
 ![alpha1](https://user-images.githubusercontent.com/74671857/140048193-aa5416e2-c5fd-46f1-9c0b-706e7fe511db.JPG)
 
